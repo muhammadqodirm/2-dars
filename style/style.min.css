@@ -71,6 +71,7 @@ body {
 }
 .user-card__location {
   font-weight: 700;
+  padding-left: 40px;
   a {
     color: #c4f82a;
   }
